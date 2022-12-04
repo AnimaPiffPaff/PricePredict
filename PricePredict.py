@@ -37,8 +37,10 @@ if predict:
     else:
         x = str(int(pred))
         l = [ x[i:i+3] for i in range(0, len(x), 3) ]
-        for num in l:
-            st.write('## The Price is:   {}  '.format(num))
+        if len(l) == 2:
+            st.write('## The Price is:  {},  {}'.format(l[0], l[1]))
+        else:
+            st.write('## The Price is:  {},  {},  {}'.format(l[0], l[1], l[2]))
    #     if int(pred/1000000) == 0:
     #        if len(str(int(pred)%1000)) == 1:
      #           st.write('## The Price is:  ', str(int(pred/1000)), ',   00{}'.format(str(int(pred%1000))))
