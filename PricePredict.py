@@ -40,7 +40,7 @@ if predict:
         if len(l) == 2:
             st.write('## The Price is:  {},  {}'.format(l[1], l[0]))
         else:
-            st.write('## The Price is:  {},  {},  {}'.format(l[2], l[1], l[0]))
+            st.write('## The Price is:  {},  {},  {}'.format(l[-1], l[1], l[0]))
             
 st.write('\n')            
 st.write('## Thank you for your visit!')
