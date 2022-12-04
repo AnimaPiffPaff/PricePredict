@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 from PIL import Image
 
-st.write('# House Pricing')
+st.header('# House Pricing')
 image = Image.open('house.jpg')
 st.image(image, caption='House Pricing Prediction')
 
