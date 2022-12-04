@@ -1,0 +1,488 @@
+﻿Property ID,Location  , Property Type,Plot Size ,Building Area ,Build Material ,Floors,Basement ,Furnished ,Main Street,Streets Access ,Sanatation Network ,Asphalt Street,Finishing Grade,Build Year ,Pre-owned ,Property Status  ,Garage Capacity ,Price 
+344,Artil,Villa,12,5.2,Stone,2,No,No,No,1,Yes,No,Delux,2020,No,Free,4,377000
+345,Bayt Baws,Commercial Building,6,5.1,Stone & Cinder Blocks,4,No,No,Yes,1,Yes,Yes,Commercial,2020,No,Free,6,507000
+346,Asbahi,Commercial Building,7,6.0,Stone & Cinder Blocks,6,Yes,No,Yes,2,Yes,Yes,Commercial,2018,Yes,Free,5,520000
+347,Artil,Commercial Building,9,7.7,Stone & Cinder Blocks,6,Yes,No,No,2,No,No,Commercial,2021,No,Free,4,512000
+348,Haddah,Villa,14,6,Stone,2,No,No,Yes,1,Yes,Yes,Delux,2019,No,Free,4,346000
+349,Haddah,Villa,8,3.4,Stone,2,Yes,No,No,2,Yes,Yes,Commercial,2020,No,Free,2,476000
+350,Artil,Villa,15.7,6.8,Stone,2,Yes,No,No,3,No,No,Delux,2021,No,Free,3,466000
+351,Haddah,Commercial Building,11,9.4,Stone,4,Yes,No,No,1,Yes,Yes,Commercial,2017,Yes,Free,6,1100000
+352,Haddah,Villa,14,6.5,Stone,3,No,No,No,2,Yes,Yes,Commercial,2021,No,Waqif,4,492000
+353,Asbahi,Villa,13.5,5.8,Stone & Cinder Blocks,2,No,No,Yes,1,Yes,Yes,Commercial,2015,Yes,Free,4,986000
+354,Artil,Villa,7,3.3,Stone,2,No,No,No,1,No,Yes,Commercial,2019,No,Free,2,241000
+355,Artil,Villa,7.5,3.2,Stone,3,No,No,No,2,Yes,Yes,Delux,2021,No,Free,3,241000
+356,Artil,Villa,7,4,Stone & Cinder Blocks,2,Yes,Yes,No,2,No,No,Commercial,2019,Yes,Free,2,353000
+357,Artil,Villa,9,5,Stone,2,Yes,No,No,1,No,No,Commercial,2021,No,Free,3,305000
+358,Bayt Baws,Commercial Building,11.5,9.8,Stone & Cinder Blocks,6,Yes,Yes,Yes,3,Yes,Yes,Delux,2019,Yes,Free,5,1065000
+359,Asbahi,Villa,7,4,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2015,Yes,Free,1,512000
+360,Asbahi,Commercial Building,12,10.2,Stone & Cinder Blocks,4,Yes,No,No,2,Yes,Yes,Commercial,2019,Yes,Free,3,965000
+361,Haddah,Villa,14,8,Stone,2,No,No,No,2,Yes,Yes,Commercial,2016,Yes,Free,4,973000
+362,Bayt Baws,Villa,8.5,4,Stone,2,No,No,No,2,Yes,Yes,Delux,2020,No,Free,2,395000
+363,Asbahi,Villa,16,9,Stone,3,No,No,No,1,Yes,Yes,Commercial,2018,Yes,Free,3,959000
+364,Asbahi,Villa,14,10,Stone,2,Yes,Yes,No,1,Yes,Yes,Delux,2020,No,Waqif,4,794000
+365,Haddah,Commercial Building,10,8.5,Stone & Cinder Blocks,6,Yes,No,No,1,Yes,Yes,Delux,2019,Yes,Free,4,950000
+366,Asbahi,Villa,11,7,Stone & Cinder Blocks,3,Yes,No,No,2,Yes,Yes,Delux,2015,Yes,Free,4,800000
+367,Asbahi,Commercial Building,10,8.5,Stone & Cinder Blocks,5,Yes,No,No,2,Yes,Yes,Delux,2019,No,Waqif,3,644000
+368,Haddah,Villa,7,5,Stone,2,Yes,No,Yes,1,Yes,Yes,Commercial,2020,No,Free,2,573000
+369,Asbahi,Commercial Building,11,9.4,Stone & Cinder Blocks,4,Yes,No,Yes,2,Yes,Yes,Commercial,2018,Yes,Free,2,1186000
+370,Haddah,Villa,7,5.5,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2020,No,Free,2,488000
+371,Haddah,Villa,8,4.5,Stone,2,No,No,No,2,Yes,Yes,Delux,2015,Yes,Free,1,500000
+372,Haddah,Commercial Building,5.8,4.9,Stone ,6,No,No,Yes,2,Yes,Yes,Commercial,2018,Yes,Free,1,480000
+373,Haddah,Villa,11,7,Stone,3,Yes,Yes,No,1,Yes,Yes,Delux,2019,Yes,Free,4,824000
+374,Haddah,Villa,9,7,Stone,2,No,No,Yes,1,Yes,Yes,Commercial,2020,No,Free,2,774000
+375,Artil,Commercial Building,7.5,6.4,Stone & Cinder Blocks,5,Yes,No,Yes,1,Yes,Yes,Delux,2017,Yes,Free,2,409000
+376,Bayt Baws,Villa,16.5,9,Stone,3,No,No,Yes,1,Yes,Yes,Delux,2020,Yes,Free,5,1154000
+377,Artil,Villa,11,9,Stone,3,No,No,No,2,No,No,Commercial,2021,No,Free,3,470000
+378,Artil,Villa,9,4.5,Stone,2,Yes,No,No,2,No,No,Delux,2019,No,Free,2,286000
+379,Haddah,Commercial Building,8,6.8,Stone & Cinder Blocks,6,Yes,No,No,2,Yes,Yes,Commercial,2016,Yes,Free,2,483000
+380,Asbahi,Villa,13,7.8,Stone,2,No,No,No,1,Yes,Yes,Delux,2013,Yes,Free,4,1026000
+381,Asbahi,Commercial Building,12,10.2,Stone & Cinder Blocks,5,Yes,No,No,1,Yes,Yes,Commercial,2017,Yes,Free,6,992000
+382,Haddah,Commercial Building,11,9.4,Stone ,4,Yes,No,Yes,1,Yes,Yes,Delux,2019,No,Free,4,1048000
+383,Haddah,Commercial Building,5,4.3,Stone ,5,Yes,No,No,2,Yes,Yes,Commercial,2018,Yes,Free,1,398000
+384,Bayt Baws,Commercial Building,9,7.7,Stone & Cinder Blocks,6,Yes,No,Yes,2,Yes,Yes,Commercial,2017,Yes,Free,2,731000
+385,Artil,Villa,11,6,Stone,2,Yes,No,No,2,No,Yes,Delux,2019,No,Free,3,369000
+386,Asbahi,Villa,12,7,Stone & Cinder Blocks,2,No,No,Yes,2,Yes,Yes,Commercial,2015,Yes,Waqif,3,831000
+387,Asbahi,Villa,8,4.8,Stone,2,Yes,No,No,1,Yes,Yes,Commercial,2010,Yes,Free,3,448000
+388,Bayt Baws,Villa,12,7,Stone,2,No,No,No,2,Yes,Yes,Delux,2019,No,Free,4,553000
+389,Haddah,Villa,9,5.4,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2014,Yes,Free,2,623000
+390,Asbahi,Commercial Building,6,5.1,Stone & Cinder Blocks,4,Yes,Yes,Yes,1,Yes,Yes,Delux,2018,Yes,Free,1,757000
+391,Bayt Baws,Villa,7,4,Stone,2,No,No,No,2,Yes,Yes,Delux,2019,No,Free,2,317000
+392,Asbahi,Villa,8,4.8,Stone,2,Yes,No,No,2,Yes,Yes,Commercial,2013,Yes,Free,3,444000
+393,Artil,Villa,12,8,Stone,3,No,No,No,2,No,No,Commercial,2019,No,Free,4,455000
+394,Artil,Commercial Building,6,5.0,Stone & Cinder Blocks,5,Yes,No,No,1,No,No,Commercial,2016,Yes,Waqif,1,227000
+395,Bayt Baws,Commercial Building,11,9.4,Stone & Cinder Blocks,4,Yes,No,No,2,Yes,Yes,Commercial,2018,Yes,Free,4,673000
+396,Asbahi,Villa,9.5,5.7,Stone,2,No,No,No,2,Yes,Yes,Delux,2015,Yes,Free,3,703000
+397,Artil,Villa,7,4.2,Stone & Cinder Blocks,2,Yes,No,No,2,No,Yes,Commercial,2020,No,Free,2,244000
+398,Haddah,Villa,10.5,6.3,Stone,2,No,No,No,1,Yes,Yes,Delux,2021,No,Free,3,705000
+399,Artil,Villa,14,8.4,Stone,2,Yes,No,Yes,1,No,Yes,Commercial,2019,No,Free,4,493000
+400,Artil,Commercial Building,10,8.5,Stone & Cinder Blocks,4,Yes,No,Yes,1,No,Yes,Commercial,2021,Yes,Free,3,548000
+401,Haddah,Villa,12.3,8,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2020,Yes,Free,3,739000
+402,Artil,Villa,13,7.8,Stone,3,No,No,No,2,No,No,Commercial,2019,No,Free,4,461000
+403,Artil,Commercial Building,12,10.8,Stone & Cinder Blocks,6,Yes,No,Yes,1,No,Yes,Delux,2016,Yes,Free,0,779000
+404,Haddah,Villa,9,5.5,Stone,2,Yes,No,Yes,2,Yes,Yes,Commercial,2020,No,Free,3,738000
+405,Artil,Commercial Building,6.4,5.8,Stone & Cinder Blocks,4,Yes,No,Yes,2,No,Yes,Commercial,2021,No,Free,1,369000
+406,Haddah,Commercial Building,10,9.0,Stone & Cinder Blocks,5,Yes,No,Yes,2,Yes,Yes,Commercial,2017,Yes,Free,0,797000
+407,Haddah,Commercial Building,12,10.8,Stone & Cinder Blocks,6,Yes,No,Yes,2,Yes,Yes,Commercial,2016,Yes,Free,3,1006000
+408,Bayt Baws,Commercial Building,6,5.4,Stone & Cinder Blocks,5,Yes,No,Yes,1,Yes,Yes,Commercial,2018,Yes,Free,1,492000
+409,Bayt Baws,Commercial Building,12,10.8,Stone & Cinder Blocks,4,Yes,No,No,1,Yes,Yes,Commercial,2018,Yes,Free,8,727000
+410,Bayt Baws,Villa,9,6,Stone & Cinder Blocks,3,Yes,No,No,2,Yes,Yes,Commercial,2020,Yes,Free,2,531000
+411,Artil,Villa,9.5,7,Stone,2,No,No,No,2,No,Yes,Delux,2021,No,Free,2,410000
+412,Haddah,Commercial Building,9.3,8.4,Stone,6,Yes,No,No,1,Yes,Yes,Commercial,2021,Yes,Free,6,663000
+413,Asbahi,Commercial Building,8,7.2,Stone & Cinder Blocks,5,Yes,No,No,2,Yes,Yes,Commercial,2019,Yes,Free,0,652000
+414,Haddah,Villa,8,7.5,Stone,2,No,No,No,2,Yes,Yes,Commercial,2020,No,Free,2,519000
+415,Artil,Commercial Building,7,6.3,Stone & Cinder Blocks,4,Yes,No,No,2,No,No,Commercial,2019,No,Free,1,441000
+416,Artil,Villa,13,9,Stone,2,No,No,No,1,No,Yes,Delux,2019,No,Free,4,539000
+417,Haddah,Commercial Building,12,10.8,Stone & Cinder Blocks,6,Yes,No,Yes,2,Yes,Yes,Commercial,2020,Yes,Free,1,925000
+418,Asbahi,Villa,11,8.5,Stone,3,Yes,No,No,2,Yes,Yes,Commercial,2010,Yes,Free,4,746000
+419,Haddah,Villa,8,4.5,Stone,2,No,No,No,2,Yes,Yes,Delux,2019,No,Free,2,469000
+420,Asbahi,Villa,14,7.5,Stone,3,No,No,No,1,Yes,Yes,Delux,2019,No,Free,3,910000
+421,Artil,Villa,7,4,Stone & Cinder Blocks,3,Yes,No,No,2,No,Yes,Delux,2019,No,Free,3,245000
+422,Asbahi,Commercial Building,10,9.0,Stone & Cinder Blocks,6,Yes,No,Yes,1,Yes,Yes,Commercial,2017,Yes,Waqif,6,947000
+423,Haddah,Commercial Building,19.3,15.5,Stone & Cinder Blocks,7,Yes,No,Yes,3,Yes,Yes,Delux,2020,No,Free,10,1814000
+424,Bayt Baws,Villa,9,5,Stone,2,Yes,Yes,Yes,2,Yes,Yes,Commercial,2020,Yes,Free,2,507000
+425,Asbahi,Villa,7,4,Stone,2,No,No,No,2,Yes,Yes,Delux,2013,Yes,Free,3,536000
+426,Bayt Baws,Commercial Building,10,9.0,Stone & Cinder Blocks,5,Yes,No,No,1,Yes,Yes,Commercial,2019,No,Free,2,642000
+427,Haddah,Villa,14,9,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2021,No,Free,4,831000
+428,Artil,Villa,7,4,Stone & Cinder Blocks,2,No,No,No,1,No,Yes,Delux,2021,No,Free,3,259000
+429,Bayt Baws,Commercial Building,11,9.9,Stone & Cinder Blocks,5,Yes,No,Yes,1,Yes,Yes,Commercial,2018,Yes,Free,3,946000
+430,Asbahi,Villa,9,5,Stone,2,Yes,No,No,2,Yes,Yes,Commercial,2013,Yes,Free,2,504000
+431,Artil,Commercial Building,8,7.2,Stone & Cinder Blocks,6,Yes,No,Yes,2,No,Yes,Commercial,2018,Yes,Free,0,494000
+432,Haddah,Traditional House,8,4,Stone,3,No,No,Yes,2,Yes,Yes,,,Yes,Free,0,960000
+433,Haddah,Commercial Building,7,6.3,Stone ,6,Yes,No,Yes,1,Yes,Yes,Delux,2019,No,Free,4,640000
+434,Asbahi,Traditional House,15,4,Stone ,1,No,No,Yes,1,Yes,Yes,,,Yes,Free,1,862000
+435,Haddah,Villa,8,4.5,Stone,2,No,No,Yes,1,Yes,Yes,Delux,2019,No,Free,3,706000
+436,Haddah,Villa,13,7,Stone,2,Yes,No,No,2,Yes,Yes,Commercial,2019,No,Waqif,4,565000
+437,Artil,Villa,10,5.5,Stone,2,Yes,Yes,No,2,No,Yes,Delux,2020,No,Free,2,423000
+438,Haddah,Villa,13,7,Stone,3,Yes,No,No,2,Yes,Yes,Delux,2019,Yes,Free,3,818000
+439,Artil,Villa,10.5,8,Stone,2,Yes,No,No,1,No,Yes,Delux,2019,No,Free,3,465000
+440,Haddah,Villa,14,7.5,Stone,2,Yes,No,Yes,1,Yes,Yes,Delux,2017,Yes,Free,3,1156000
+441,Artil,Villa,13,7,Stone,2,No,No,No,2,No,Yes,Commercial,2019,No,Free,4,488000
+442,Bayt Baws,Traditional House,7.5,5,Stone ,2,No,No,Yes,1,Yes,Yes,,,Yes,Waqif,0,163000
+443,Artil,Villa,11,6,Stone & Cinder Blocks,2,No,No,No,2,No,No,Commercial,2019,No,Free,4,373000
+444,Bayt Baws,Commercial Building,5,4.4,Stone & Cinder Blocks,5,Yes,No,Yes,1,Yes,Yes,Commercial,2016,Yes,Free,3,447000
+445,Bayt Baws,Villa,9,5,Stone,2,Yes,No,No,1,Yes,Yes,Commercial,2019,No,Free,2,490000
+446,Artil,Commercial Building,8,7.0,Stone & Cinder Blocks,4,Yes,No,No,1,No,Yes,Commercial,2017,Yes,Free,2,480000
+447,Asbahi,Commercial Building,6,5.2,Stone & Cinder Blocks,5,Yes,No,No,2,Yes,Yes,Commercial,2020,Yes,Free,1,518000
+448,Bayt Baws,Villa,13,9,Stone,2,Yes,No,No,2,Yes,Yes,Commercial,2020,No,Free,4,713000
+449,Asbahi,Traditional House,6.5,3.5,Stone ,1,No,No,Yes,2,Yes,Yes,,,Yes,Free,3,489000
+450,Asbahi,Traditional House,8,4,Stone ,1,No,No,No,2,Yes,Yes,,,Yes,Free,0,220000
+451,Artil,Villa,10,7,Stone,3,Yes,No,No,2,No,Yes,Commercial,2020,No,Free,3,433000
+452,Bayt Baws,Villa,14,10,Stone,2,No,No,No,1,Yes,Yes,Commercial,2020,No,Free,4,893000
+453,Artil,Villa,13,7,Stone,2,No,No,No,1,No,Yes,Delux,2021,No,Free,3,441000
+454,Asbahi,Commercial Building,12,10.4,Stone & Cinder Blocks,5,Yes,No,Yes,1,Yes,Yes,Delux,2021,Yes,Free,4,1587000
+455,Artil,Commercial Building,6.2,5.4,Stone & Cinder Blocks,4,Yes,No,Yes,2,Yes,Yes,Delux,2021,No,Free,1,380000
+456,Artil,Villa,10,6,Stone,2,No,No,No,2,No,No,Commercial,2020,No,Free,3,388000
+457,Bayt Baws,Commercial Building,11,9.6,Stone & Cinder Blocks,4,Yes,No,Yes,2,Yes,Yes,Commercial,2017,Yes,Free,2,853000
+458,Haddah,Commercial Building,12,10.4,Stone & Cinder Blocks,5,Yes,No,No,1,Yes,Yes,Commercial,2017,Yes,Waqif,3,503000
+459,Asbahi,Villa,8,6,Stone & Cinder Blocks,2,No,No,No,1,Yes,Yes,Delux,2015,Yes,Free,2,519000
+460,Asbahi,Villa,13,10,Stone,3,Yes,No,No,2,Yes,Yes,Delux,2010,Yes,Free,3,1042000
+461,Asbahi,Commercial Building,8,7.0,Stone & Cinder Blocks,6,Yes,No,No,1,Yes,Yes,Commercial,2017,Yes,Free,1,577000
+462,Bayt Baws,Villa,15,8,Stone,2,No,No,Yes,2,Yes,Yes,Commercial,2021,No,Free,4,82000
+463,Haddah,Commercial Building,12,10.4,Stone ,6,Yes,No,Yes,1,Yes,Yes,Commercial,2019,Yes,Free,3,928000
+464,Artil,Villa,7,3,Stone,2,No,No,No,2,No,Yes,Delux,2020,No,Free,2,211000
+465,Artil,Villa,6,4,Stone,2,No,No,No,2,No,Yes,Delux,2021,No,Waqif,2,186000
+466,Artil,Villa,11,8.6,Stone,2,Yes,No,No,2,No,Yes,Commercial,2019,No,Free,4,475000
+467,Bayt Baws,Villa,14,10,Stone,2,Yes,Yes,No,2,Yes,Yes,Delux,2019,No,Free,3,884000
+468,Bayt Baws,Commercial Building,12,10.4,Stone & Cinder Blocks,6,Yes,No,No,2,Yes,Yes,Commercial,2018,Yes,Free,5,684000
+469,Haddah,Villa,5.5,3.25,Stone,2,No,No,No,2,Yes,Yes,Commercial,2016,Yes,Free,2,353000
+470,Artil,Villa,13,9.5,Stone,2,Yes,Yes,No,1,No,Yes,Delux,2020,No,Free,3,600000
+471,Artil,Commercial Building,10,8.7,Stone & Cinder Blocks,4,Yes,No,Yes,1,No,Yes,Commercial,2019,No,Free,2,583000
+472,Haddah,Commercial Building,7,6.1,Stone & Cinder Blocks,5,Yes,No,Yes,1,Yes,Yes,Commercial,2021,No,Free,1,530000
+473,Haddah,Villa,8,6,Stone,2,Yes,Yes,No,1,Yes,Yes,Commercial,2019,No,Free,2,653000
+474,Bayt Baws,Villa,13,9,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2020,No,Free,4,728000
+475,Bayt Baws,Villa,11,8.5,Stone,2,Yes,No,Yes,1,Yes,Yes,Delux,2020,No,Free,3,964000
+476,Artil,Villa,12,7,Stone,2,No,No,No,1,No,Yes,Commercial,2020,No,Free,3,459000
+477,Haddah,Commercial Building,12,10.4,Stone ,4,Yes,No,Yes,2,Yes,Yes,Delux,2021,Yes,Free,4,1152000
+478,Haddah,Villa,11,9,Stone,2,No,No,No,1,Yes,Yes,Delux,2020,No,Free,4,816000
+479,Haddah,Villa,13,8.5,Stone,2,Yes,No,No,2,Yes,Yes,Commercial,2019,No,Free,4,714000
+480,Bayt Baws,Villa,10,7.5,Stone,2,Yes,No,No,1,Yes,Yes,Commercial,2020,No,Waqif,2,506000
+481,Haddah,Commercial Building,8,7.0,Stone ,6,Yes,No,No,2,Yes,Yes,Commercial,2019,No,Free,2,504000
+482,Bayt Baws,Villa,9,6.7,Stone,2,Yes,Yes,No,1,Yes,Yes,Delux,2019,No,Free,3,651000
+483,Artil,Villa,15,9.5,Stone,2,No,No,No,2,No,No,Delux,2020,No,Free,5,564000
+484,Artil,Villa,14,8,Stone & Cinder Blocks,2,No,No,No,1,No,No,Commercial,2020,No,Free,4,490000
+485,Asbahi,Commercial Building,11,9.6,Stone & Cinder Blocks,5,Yes,No,Yes,2,Yes,Yes,Commercial,2020,No,Free,3,1405000
+486,Bayt Baws,Villa,9,7,Stone,2,Yes,No,Yes,1,Yes,Yes,Commercial,2020,No,Free,3,532000
+487,Haddah,Villa,13,11,Stone,2,No,No,No,1,Yes,Yes,Delux,2019,No,Free,3,1032000
+488,Asbahi,Villa,11,8.4,Stone,2,Yes,Yes,Yes,2,Yes,Yes,Commercial,2019,No,Free,3,1043000
+489,Asbahi,Villa,13,12.3,Stone,2,Yes,No,Yes,1,Yes,Yes,Commercial,2019,No,Free,4,1205000
+490,Haddah,Villa,12.5,8,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2020,No,Free,4,827000
+491,Haddah,Villa,12,7.5,Stone,2,Yes,No,Yes,2,Yes,Yes,Delux,2019,No,Free,5,971000
+492,Bayt Baws,Villa,8,5.5,Stone,2,No,No,No,2,Yes,Yes,Delux,2019,No,Free,2,403000
+493,Artil,Villa,14,7.4,Stone & Cinder Blocks,2,No,Yes,No,1,No,Yes,Commercial,2021,Yes,Free,3,589000
+494,Artil,Commercial Building,5,4.4,Stone & Cinder Blocks,5,No,No,No,1,No,Yes,Commercial,2021,Yes,Free,2,293000
+495,Asbahi,Villa,14,9,Stone,3,No,No,No,1,Yes,Yes,Delux,2013,Yes,Free,3,1134000
+496,Haddah,Empty Plot,12.3,,,,,,No,1,No,No,,,,Free,,320000
+497,Haddah,Villa,8,6.8,Stone,2,Yes,No,No,1,Yes,Yes,Delux,2020,No,Free,3,639000
+498,Haddah,Villa,13,7.7,Stone,2,Yes,Yes,No,2,Yes,Yes,Delux,2021,No,Free,3,942000
+499,Asbahi,Empty Plot,8,,,,,,No,1,Yes,Yes,,,,Free,,198000
+500,Haddah,Villa,14,8.2,Stone,2,No,No,Yes,1,Yes,Yes,Commercial,2020,No,Free,4,1144000
+501,Haddah,Empty Plot,7,,,,,,Yes,2,Yes,Yes,,,,Free,,420000
+502,Artil,Empty Plot,40,,,,,,Yes,4,No,Yes,,,,Waqif,,383000
+503,Asbahi,Empty Plot,3,,,,,,Yes,2,Yes,Yes,,,,Free,,197000
+504,Asbahi,Villa,12,7.2,Stone,2,No,No,No,1,Yes,Yes,Commercial,2020,No,Free,3,652000
+505,Haddah,Villa,10,6.2,Stone,2,No,No,No,1,Yes,Yes,Delux,2019,No,Free,2,676000
+506,Haddah,Villa,13,7.7,Stone,2,Yes,No,No,2,Yes,Yes,Commercial,2019,No,Free,5,810000
+507,Asbahi,Empty Plot,4,,,,,,No,1,Yes,Yes,,,,Free,,177000
+508,Asbahi,Commercial Building,7,6.1,Stone & Cinder Blocks,4,Yes,No,Yes,1,Yes,Yes,Commercial,2019,No,Free,3,978000
+509,Bayt Baws,Empty Plot,9,,,,,,No,2,Yes,Yes,,,,Free,,342000
+510,Artil,Empty Plot,25,,,,,,Yes,1,No,Yes,,,,Free,,374000
+511,Bayt Baws,Villa,9,7.5,Stone,2,No,No,No,2,Yes,Yes,Delux,2021,No,Waqif,2,391000
+512,Asbahi,Commercial Building,9,7.8,Stone & Cinder Blocks,6,Yes,No,Yes,2,Yes,Yes,Commercial,2021,Yes,Free,1,1187000
+513,Artil,Empty Plot,13,,,,,,No,2,No,Yes,,,,Free,,192000
+514,Artil,Empty Plot,16,,,,,,Yes,1,No,Yes,,,,Waqif,,156000
+515,Artil,Commercial Building,9,8.5,Stone & Cinder Blocks,6,Yes,No,No,1,No,No,Commercial,2020,No,Free,1,566000
+516,Asbahi,Empty Plot,3.8,,,,,,No,1,Yes,Yes,,,,Free,,152000
+517,Haddah,Villa,13,8,Stone,2,No,No,No,2,Yes,Yes,Commercial,2020,No,Free,4,763000
+518,Artil,Commercial Building,7,6.1,Stone & Cinder Blocks,5,Yes,No,No,1,No,No,Commercial,2017,Yes,Free,3,385000
+519,Bayt Baws,Commercial Building,10,8.7,Stone & Cinder Blocks,4,Yes,No,No,2,Yes,Yes,Commercial,2017,Yes,Free,3,608000
+520,Artil,Villa,11,6.7,Stone,2,No,No,No,1,No,Yes,Delux,2019,No,Free,4,392000
+521,Asbahi,Commercial Building,6,5.2,Stone & Cinder Blocks,4,Yes,No,Yes,2,Yes,Yes,Commercial,2018,Yes,Free,2,663000
+522,Bayt Baws,Commercial Building,7,6.1,Stone & Cinder Blocks,4,Yes,No,Yes,2,Yes,Yes,Commercial,2020,Yes,Waqif,3,471000
+523,Asbahi,Commercial Building,7,6.1,Stone & Cinder Blocks,4,Yes,No,No,1,Yes,Yes,Commercial,2018,Yes,Free,1,593000
+524,Bayt Baws,Villa,14,8.2,Stone & Cinder Blocks,2,No,No,No,2,Yes,Yes,Commercial,2020,No,Free,5,811000
+525,Asbahi,Villa,9,5.7,Stone,2,No,No,No,2,Yes,Yes,Delux,2021,No,Free,3,651000
+526,Haddah,Commercial Building,12,10.4,Stone & Cinder Blocks,6,Yes,No,Yes,1,Yes,Yes,Commercial,2016,Yes,Free,5,964000
+527,Bayt Baws,Villa,11,6.7,Stone,2,Yes,Yes,No,1,Yes,Yes,Commercial,2020,Yes,Free,3,718000
+528,Haddah,Villa,12,7.2,Stone,2,No,No,No,1,Yes,Yes,Commercial,2021,Yes,Free,5,766000
+529,Artil,Villa,9,5.7,Stone,2,No,No,Yes,1,No,Yes,Delux,2020,No,Free,3,343000
+530,Bayt Baws,Commercial Building,8.5,7.4,Stone & Cinder Blocks,5,Yes,No,No,1,Yes,Yes,Commercial,2019,Yes,Free,4,456000
+531,Haddah,Commercial Building,8,7.1,Stone & Cinder Blocks,4,Yes,No,No,2,Yes,Yes,Commercial,2019,No,Free,3,522000
+532,Bayt Baws,Villa,14,8.2,Stone,2,No,No,No,1,Yes,Yes,Delux,2021,No,Free,3,772000
+533,Artil,Villa,13,9,Stone & Cinder Blocks,2,Yes,No,No,2,No,No,Delux,2019,No,Free,3,506000
+534,Haddah,Villa,15,8.7,Stone,2,No,No,Yes,2,Yes,Yes,Commercial,2019,No,Free,3,1322000
+535,Bayt Baws,Villa,9,7,Stone,2,Yes,No,No,1,Yes,Yes,Delux,2020,No,Free,2,587000
+536,Artil,Villa,10,7,Stone,2,No,No,No,1,No,No,Delux,2020,No,Free,3,397000
+537,Artil,Commercial Building,5,4.5,Stone & Cinder Blocks,4,Yes,No,Yes,1,No,Yes,Commercial,2018,Yes,Free,4,272000
+538,Bayt Baws,Commercial Building,10,8.9,Stone & Cinder Blocks,6,Yes,No,Yes,2,Yes,Yes,Commercial,2020,Yes,Free,3,891000
+539,Bayt Baws,Commercial Building,8,7.1,Stone & Cinder Blocks,6,Yes,No,No,1,Yes,Yes,Commercial,2020,No,Free,4,459000
+540,Artil,Commercial Building,10,8.9,Stone & Cinder Blocks,4,Yes,No,Yes,2,No,Yes,Commercial,2019,No,Free,2,598000
+541,Haddah,Villa,12,8.4,Stone,2,No,No,No,2,Yes,Yes,Delux,2017,Yes,Free,3,902000
+542,Artil,Villa,7,4.9,Stone,2,Yes,No,No,2,No,No,Commercial,2019,No,Free,3,266000
+543,Bayt Baws,Villa,15,10.5,Stone,2,Yes,No,No,1,Yes,Yes,Delux,2021,No,Free,4,813000
+544,Haddah,Villa,13,9,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2021,No,Free,4,915000
+545,Artil,Villa,13,9.1,Stone,2,Yes,No,No,1,No,Yes,Delux,2020,No,Free,3,499000
+546,Bayt Baws,Villa,13,9.1,Stone,2,No,Yes,No,1,Yes,Yes,Commercial,2021,Yes,Free,4,825000
+547,Bayt Baws,Villa,14,9.8,Stone,2,Yes,No,Yes,1,Yes,Yes,Commercial,2021,Yes,Free,5,482000
+548,Asbahi,Villa,11,7.7,Stone,2,No,No,No,1,Yes,Yes,Delux,2013,Yes,Free,3,716000
+549,Bayt Baws,Villa,11,7.7,Stone,2,Yes,No,No,1,Yes,Yes,Commercial,2019,No,Free,3,628000
+550,Bayt Baws,Commercial Building,10,8.9,Stone & Cinder Blocks,6,Yes,No,No,1,Yes,Yes,Commercial,2016,Yes,Free,3,559000
+551,Asbahi,Villa,13,9.5,Stone,2,No,No,No,1,Yes,Yes,Delux,2019,No,Free,3,1106000
+552,Asbahi,Commercial Building,9,8.0,Stone & Cinder Blocks,4,Yes,No,Yes,2,Yes,Yes,Commercial,2018,Yes,Free,2,1021000
+553,Bayt Baws,Commercial Building,10,8.9,Stone,6,Yes,No,No,2,Yes,Yes,Commercial,2020,Yes,Free,1,635000
+554,Haddah,Commercial Building,7,6.2,Stone,6,Yes,No,Yes,1,Yes,Yes,Commercial,2016,Yes,Free,0,556000
+555,Artil,Villa,9,7,Stone & Cinder Blocks,2,Yes,Yes,No,1,No,Yes,Delux,2021,No,Free,2,483000
+556,Bayt Baws,Villa,11,8,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2019,Yes,Free,5,664000
+557,Bayt Baws,Villa,10,7,Stone,2,No,No,No,1,Yes,Yes,Commercial,2019,No,Free,3,589000
+558,Bayt Baws,Commercial Building,5,4.5,Stone & Cinder Blocks,6,Yes,No,Yes,1,Yes,Yes,Commercial,2019,No,Free,0,417000
+559,Bayt Baws,Villa,13,9.1,Stone,2,No,No,No,1,Yes,Yes,Commercial,2020,No,Free,5,773000
+560,Artil,Commercial Building,9,8.0,Stone & Cinder Blocks,5,Yes,No,Yes,1,No,Yes,Commercial,2016,Yes,Free,1,583000
+561,Haddah,Villa,12,8.4,Stone,2,No,No,No,1,Yes,Yes,Delux,2021,No,Free,3,719000
+562,Haddah,Villa,14,9.8,Stone,2,Yes,No,Yes,2,Yes,Yes,Delux,2014,Yes,Free,3,1382000
+563,Haddah,Commercial Building,7,6.2,Stone & Cinder Blocks,4,Yes,No,No,2,Yes,Yes,Commercial,2016,Yes,Free,1,455000
+564,Asbahi,Commercial Building,9,8.0,Stone & Cinder Blocks,6,Yes,No,No,2,Yes,Yes,Commercial,2021,No,Free,1,691000
+565,Asbahi,Commercial Building,9,8.0,Stone & Cinder Blocks,5,Yes,No,Yes,2,Yes,Yes,Commercial,2017,Yes,Free,2,1180000
+566,Asbahi,Villa,9,6.3,Stone,2,Yes,No,Yes,1,Yes,Yes,Delux,2019,No,Free,3,898000
+567,Bayt Baws,Commercial Building,7,6.2,Stone & Cinder Blocks,4,Yes,No,Yes,1,Yes,Yes,Commercial,2018,Yes,Free,0,567000
+568,Asbahi,Commercial Building,5,4.5,Stone & Cinder Blocks,4,Yes,No,No,2,Yes,Yes,Commercial,2020,No,Free,3,397000
+569,Haddah,Villa,15,10.5,Stone,2,No,No,No,2,Yes,Yes,Delux,2019,No,Free,3,1167000
+570,Asbahi,Commercial Building,12,10.7,Stone & Cinder Blocks,6,Yes,No,Yes,2,Yes,Yes,Delux,2017,No,Free,4,1826000
+571,Haddah,Villa,9,6.3,Stone & Cinder Blocks,2,Yes,No,No,2,Yes,Yes,Delux,2021,No,Free,2,681000
+572,Artil,Villa,19,13.3,Stone,2,No,No,No,1,No,No,Delux,2019,No,Free,5,750000
+573,Haddah,Villa,15,10.5,Stone,2,Yes,No,No,1,Yes,Yes,Commercial,2019,No,Free,3,962000
+574,Asbahi,Villa,10,7,Stone & Cinder Blocks,2,No,No,No,1,Yes,Yes,Commercial,2013,Yes,Free,3,603000
+575,Artil,Commercial Building,5,4.5,Stone & Cinder Blocks,5,Yes,No,Yes,2,No,Yes,Commercial,2021,Yes,Free,1,317000
+576,Artil,Villa,9,6.3,Stone,2,Yes,Yes,No,2,No,No,Delux,2019,Yes,Free,3,445000
+577,Artil,Villa,7,4.9,Stone,2,No,No,No,1,No,No,Delux,2019,Yes,Free,3,293000
+578,Haddah,Commercial Building,12.6,11.2,Stone & Cinder Blocks,5,Yes,No,Yes,2,Yes,Yes,Delux,2017,Yes,Free,2,1244000
+579,Artil,Villa,14,9.8,Stone,3,Yes,No,No,1,No,Yes,Commercial,2020,No,Free,5,579000
+580,Artil,Villa,11,8.8,Stone,2,No,No,No,1,No,No,Delux,2021,No,Free,3,465000
+581,Bayt Baws,Villa,14,11.2,Stone,2,No,No,Yes,1,Yes,Yes,Delux,2019,No,Free,5,1098000
+582,Asbahi,Commercial Building,10,8.9,Stone & Cinder Blocks,5,Yes,No,Yes,2,Yes,Yes,Commercial,2018,Yes,Free,2,1337000
+583,Artil,Commercial Building,6,5.3,Stone & Cinder Blocks,6,Yes,No,No,2,Yes,Yes,Delux,2018,Yes,Free,1,350000
+584,Artil,Commercial Building,12,10.7,Stone & Cinder Blocks,4,Yes,No,Yes,1,No,Yes,Commercial,2021,Yes,Free,2,650000
+585,Artil,Villa,8,6.4,Stone,2,Yes,No,No,2,No,No,Commercial,2021,No,Free,3,322000
+586,Bayt Baws,Commercial Building,10,8.9,Stone & Cinder Blocks,5,Yes,No,Yes,2,Yes,Yes,Commercial,2017,Yes,Free,4,811000
+587,Bayt Baws,Commercial Building,6,5.4,Stone & Cinder Blocks,5,Yes,No,Yes,1,Yes,Yes,Commercial,2017,Yes,Free,1,490000
+588,Artil,Villa,13,10.4,Stone,2,No,Yes,No,2,No,Yes,Delux,2021,Yes,Free,4,669000
+589,Bayt Baws,Villa,20,16,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2019,No,Free,4,1123000
+590,Haddah,Villa,8,6.4,Stone,2,Yes,No,No,1,Yes,Yes,Commercial,2013,Yes,Free,2,602000
+591,Bayt Baws,Commercial Building,11,9.9,Stone & Cinder Blocks,5,Yes,No,Yes,1,Yes,Yes,Commercial,2020,Yes,Free,2,834000
+592,Asbahi,Villa,9.5,7.6,Stone & Cinder Blocks,2,Yes,No,No,2,Yes,Yes,Commercial,2010,Yes,Free,3,550000
+593,Asbahi,Commercial Building,7,6.3,Stone & Cinder Blocks,6,Yes,No,Yes,1,Yes,Yes,Commercial,2019,Yes,Free,3,798000
+594,Asbahi,Villa,9,7.2,Stone,2,No,No,No,2,Yes,Yes,Delux,2010,Yes,Free,3,638000
+595,Artil,Commercial Building,9,8.1,Stone & Cinder Blocks,5,Yes,No,Yes,2,No,Yes,Commercial,2020,No,Free,2,525000
+596,Bayt Baws,Villa,7,5.6,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2021,No,Free,2,434000
+597,Haddah,Villa,11,8.8,Stone,2,Yes,No,Yes,1,Yes,Yes,Commercial,2020,No,Free,4,1039000
+598,Artil,Villa,13,10.4,Stone,2,Yes,No,No,2,No,No,Commercial,2020,No,Free,5,583000
+599,Haddah,Commercial Building,11,9.9,Stone ,5,Yes,No,No,2,Yes,Yes,Commercial,2019,Yes,Free,4,808000
+600,Haddah,Villa,8,6.4,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2019,No,Free,3,631000
+601,Asbahi,Villa,7,5.6,Stone,2,No,No,Yes,1,Yes,Yes,Commercial,2015,Yes,Free,2,628000
+602,Asbahi,Villa,14,11.2,Stone,2,No,No,No,1,Yes,Yes,Commercial,2018,Yes,Free,4,903000
+603,Artil,Commercial Building,8,7.2,Stone & Cinder Blocks,4,Yes,No,No,2,No,No,Commercial,2016,Yes,Free,2,526000
+604,Haddah,Villa,9,7.2,Stone,3,Yes,No,No,2,Yes,Yes,Delux,2019,No,Free,3,663000
+605,Bayt Baws,Commercial Building,10,9.0,Stone & Cinder Blocks,6,Yes,No,Yes,2,Yes,Yes,Commercial,2019,Yes,Free,1,838000
+606,Artil,Villa,10,8,Stone,2,No,No,No,1,No,No,Commercial,2020,No,Free,2,411000
+607,Artil,Villa,11,8.25,Stone,2,No,No,No,2,No,No,Commercial,2021,No,Free,5,468000
+608,Bayt Baws,Commercial Building,12,10.8,Stone & Cinder Blocks,4,Yes,No,Yes,1,Yes,Yes,Commercial,2016,Yes,Free,5,950000
+609,Artil,Commercial Building,9,8.1,Stone & Cinder Blocks,5,Yes,No,No,2,No,Yes,Commercial,2017,Yes,Free,2,555000
+610,Bayt Baws,Villa,12,9,Stone,2,Yes,No,Yes,1,Yes,Yes,Commercial,2021,No,Free,4,712000
+611,Haddah,Villa,9,6.75,Stone,2,Yes,No,No,1,Yes,Yes,Commercial,2020,No,Free,3,620000
+612,Asbahi,Commercial Building,10,9.0,Stone & Cinder Blocks,4,Yes,No,Yes,2,Yes,Yes,Commercial,2017,Yes,Free,1,1588000
+613,Bayt Baws,Villa,27,20.25,Stone,3,No,No,No,4,Yes,Yes,Delux,2019,No,Free,7,1750000
+614,Artil,Villa,12,9,Stone,2,Yes,No,No,1,No,No,Commercial,2020,No,Free,5,523000
+615,Haddah,Villa,11,8.25,Stone,2,No,No,Yes,1,Yes,Yes,Commercial,2017,Yes,Free,3,1010000
+616,Haddah,Commercial Building,11,9.9,Stone & Cinder Blocks,6,Yes,No,Yes,1,Yes,Yes,Commercial,2019,Yes,Free,0,860000
+617,Asbahi,Commercial Building,5,4.5,Stone & Cinder Blocks,5,Yes,No,Yes,1,Yes,Yes,Commercial,2018,Yes,Free,2,661000
+618,Artil,Commercial Building,7,6.3,Stone & Cinder Blocks,6,Yes,No,Yes,1,No,Yes,Delux,2017,Yes,Free,3,492000
+619,Artil,Villa,11,8.25,Stone,2,No,No,No,2,No,No,Commercial,2020,No,Free,4,487000
+620,Asbahi,Commercial Building,5.2,4.7,Stone & Cinder Blocks,6,Yes,No,No,2,Yes,Yes,Commercial,2017,Yes,Free,1,479000
+621,Bayt Baws,Villa,12,9,Stone & Cinder Blocks,2,No,No,No,2,Yes,Yes,Commercial,2019,No,Free,4,760000
+622,Bayt Baws,Villa,8,6,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2021,No,Free,3,435000
+623,Haddah,Commercial Building,6,5.4,Stone & Cinder Blocks,6,Yes,No,No,2,Yes,Yes,Commercial,2021,Yes,Free,1,380000
+624,Artil,Commercial Building,8,7.2,Stone & Cinder Blocks,4,Yes,No,No,1,No,No,Commercial,2020,No,Free,1,457000
+625,Haddah,Villa,10,7.5,Stone,2,No,Yes,No,2,Yes,Yes,Delux,2020,No,Free,2,748000
+626,Artil,Commercial Building,6,5.4,Stone & Cinder Blocks,6,Yes,No,No,1,No,No,Commercial,2018,Yes,Free,2,367000
+627,Bayt Baws,Commercial Building,11,9.9,Stone & Cinder Blocks,4,Yes,No,No,2,Yes,Yes,Commercial,2018,Yes,Free,4,616000
+628,Asbahi,Commercial Building,5,4.5,Stone & Cinder Blocks,4,Yes,No,Yes,1,Yes,Yes,Commercial,2017,Yes,Free,4,704000
+629,Haddah,Commercial Building,9,8.1,Stone ,4,Yes,No,Yes,1,Yes,Yes,Commercial,2020,Yes,Free,2,735000
+630,Haddah,Commercial Building,7,6.3,Stone & Cinder Blocks,6,Yes,No,Yes,1,Yes,Yes,Commercial,2016,Yes,Free,3,540000
+631,Bayt Baws,Villa,10,7.5,Stone,2,No,No,No,1,Yes,Yes,Delux,2020,Yes,Free,2,647000
+632,Artil,Commercial Building,9,8.1,Stone & Cinder Blocks,5,Yes,No,Yes,2,No,Yes,Commercial,2018,Yes,Free,2,528000
+633,Bayt Baws,Villa,10,6,Stone,2,Yes,No,No,1,Yes,Yes,Delux,2020,No,Free,3,562000
+634,Artil,Commercial Building,8.3,7.5,Stone & Cinder Blocks,4,Yes,No,No,1,No,No,Delux,2020,Yes,Free,1,496000
+635,Artil,Villa,13,8,Stone,2,No,No,No,1,No,No,Commercial,2020,No,Free,5,465000
+636,Asbahi,Villa,10,8,Stone,2,Yes,No,No,1,Yes,Yes,Delux,2010,Yes,Free,2,808000
+637,Haddah,Commercial Building,7,6.3,Stone & Cinder Blocks,5,Yes,No,No,1,Yes,Yes,Commercial,2016,Yes,Free,1,430000
+638,Bayt Baws,Commercial Building,10,9.0,Stone & Cinder Blocks,6,Yes,No,Yes,1,Yes,Yes,Commercial,2016,Yes,Waqif,1,511000
+639,Bayt Baws,Villa,15,9,Stone & Cinder Blocks,2,Yes,No,No,2,Yes,Yes,Delux,2021,No,Free,3,708000
+640,Asbahi,Commercial Building,8,7.2,Stone & Cinder Blocks,4,Yes,No,Yes,2,Yes,Yes,Commercial,2020,No,Free,1,1112000
+641,Asbahi,Commercial Building,10,9.0,Stone & Cinder Blocks,4,Yes,No,Yes,1,Yes,Yes,Commercial,2020,No,Free,1,1489000
+642,Bayt Baws,Villa,15,8.5,Stone,2,Yes,Yes,No,2,Yes,Yes,Commercial,2020,Yes,Free,5,870000
+643,Artil,Commercial Building,9,8.1,Stone & Cinder Blocks,5,Yes,No,Yes,2,No,Yes,Commercial,2016,Yes,Free,1,570000
+644,Bayt Baws,Villa,7,5,Stone,2,No,No,No,1,Yes,Yes,Delux,2021,No,Free,3,391000
+645,Artil,Commercial Building,12,10.8,Stone & Cinder Blocks,4,Yes,No,Yes,2,No,Yes,Commercial,2016,Yes,Free,4,686000
+646,Artil,Traditional House,7,4,Brick,3,No,No,Yes,2,No,Yes,,,Yes,Free,2,116000
+647,Haddah,Villa,8,5,Stone,2,No,No,No,2,Yes,Yes,Delux,2021,No,Free,2,463000
+648,Artil,Villa,13,10,Stone,2,No,No,No,2,No,No,Delux,2021,No,Free,4,577000
+649,Asbahi,Traditional House,8.5,5,Brick ,3,No,No,Yes,2,Yes,Yes,,,Yes,Free,2,483000
+650,Artil,Commercial Building,9,8.1,Stone & Cinder Blocks,5,Yes,No,No,1,No,Yes,Commercial,2019,Yes,Free,1,544000
+651,Asbahi,Villa,9,7,Stone,2,No,No,No,1,Yes,Yes,Delux,2018,Yes,Free,3,595000
+652,Haddah,Commercial Building,6,5.4,Stone ,5,Yes,No,Yes,1,Yes,Yes,Commercial,2020,Yes,Free,1,484000
+653,Bayt Baws,Villa,10,7,Stone & Cinder Blocks,3,Yes,No,No,1,Yes,Yes,Delux,2020,No,Free,3,561000
+654,Asbahi,Traditional House,15,4,Stone ,2,No,No,Yes,1,Yes,Yes,,,Yes,Free,0,1043000
+655,Artil,Villa,8,5.6,Stone,2,No,No,No,2,No,Yes,Delux,2019,No,Free,2,338000
+656,Asbahi,Villa,7,4.9,Stone,2,Yes,No,No,2,Yes,Yes,Commercial,2013,Yes,Free,2,452000
+657,Asbahi,Commercial Building,5,4.5,Stone & Cinder Blocks,4,Yes,No,No,1,Yes,Yes,Commercial,2017,Yes,Free,1,410000
+658,Artil,Commercial Building,5,4.5,Stone & Cinder Blocks,6,Yes,No,No,1,No,No,Commercial,2017,Yes,Free,1,325000
+659,Bayt Baws,Villa,8,5.6,Stone,2,No,No,No,2,Yes,Yes,Commercial,2020,No,Free,3,458000
+660,Asbahi,Commercial Building,11,9.9,Stone & Cinder Blocks,5,Yes,No,No,2,Yes,Yes,Delux,2020,Yes,Free,4,896000
+661,Artil,Villa,12,8.4,Stone,2,No,No,Yes,1,No,Yes,Commercial,2019,No,Free,3,468000
+662,Artil,Villa,7,4.9,Stone,2,No,No,No,1,No,Yes,Delux,2019,No,Free,2,289000
+663,Bayt Baws,Commercial Building,7,6.3,Stone & Cinder Blocks,4,Yes,No,No,1,Yes,Yes,Commercial,2020,No,Free,2,401000
+664,Asbahi,Commercial Building,11,9.9,Stone & Cinder Blocks,4,Yes,No,Yes,2,Yes,Yes,Commercial,2017,Yes,Free,3,1593000
+665,Bayt Baws,Commercial Building,10,9.0,Stone & Cinder Blocks,5,Yes,No,Yes,2,Yes,Yes,Commercial,2020,Yes,Free,1,787000
+666,Haddah,Commercial Building,11,9.9,Stone,4,Yes,No,Yes,1,Yes,Yes,Commercial,2019,No,Free,2,873000
+667,Haddah,Villa,11,7.7,Stone,2,No,No,No,1,Yes,Yes,Delux,2019,Yes,Free,4,704000
+668,Haddah,Commercial Building,6,5.4,Stone ,5,Yes,No,No,2,Yes,Yes,Commercial,2016,Yes,Free,4,447000
+669,Haddah,Commercial Building,5,4.5,Stone & Cinder Blocks,5,Yes,No,Yes,1,Yes,Yes,Commercial,2021,No,Free,2,396000
+670,Asbahi,Villa,12,8.4,Stone,2,No,No,No,1,Yes,Yes,Delux,2013,Yes,Free,4,979000
+671,Haddah,Villa,9,6.3,Stone,2,Yes,No,No,2,Yes,Yes,Commercial,2020,No,Free,2,592000
+672,Asbahi,Commercial Building,5,4.5,Stone & Cinder Blocks,4,Yes,No,Yes,1,Yes,Yes,Commercial,2018,Yes,Free,1,650000
+673,Haddah,Commercial Building,5,4.5,Stone ,5,Yes,No,Yes,2,Yes,Yes,Commercial,2021,Yes,Free,1,413000
+674,Asbahi,Traditional House,5,3,Brick ,1,No,No,No,1,Yes,Yes,,,Yes,Free,0,200000
+675,Haddah,Commercial Building,25,19.0,Stone ,8,Yes,No,No,4,Yes,Yes,Delux,2018,Yes,Free,12,1976000
+676,Asbahi,Villa,12,8.4,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2010,Yes,Free,4,901000
+677,Asbahi,Traditional House,8,3.5,Stone ,1,No,No,Yes,1,Yes,Yes,,,Yes,Waqif,0,399000
+678,Asbahi,Commercial Building,6,5.4,Stone & Cinder Blocks,4,Yes,No,Yes,1,Yes,Yes,Commercial,2017,Yes,Free,1,674000
+679,Artil,Villa,8,4.5,Stone,2,No,No,No,2,No,Yes,Delux,2021,No,Free,2,287000
+680,Artil,Commercial Building,9,8.1,Stone & Cinder Blocks,6,Yes,No,Yes,2,No,Yes,Commercial,2016,Yes,Free,2,515000
+681,Artil,Traditional House,30,8,Brick ,3,No,No,No,2,No,Yes,,,Yes,Free,0,510000
+682,Haddah,Commercial Building,9,8.1,Stone & Cinder Blocks,5,Yes,No,Yes,1,Yes,Yes,Commercial,2019,No,Free,3,710000
+683,Asbahi,Villa,8.5,6,Stone,2,No,No,No,2,Yes,Yes,Commercial,2010,Yes,Free,3,472000
+684,Artil,Villa,8,5.6,Stone,2,Yes,No,No,1,No,No,Commercial,2020,No,Free,3,321000
+685,Asbahi,Traditional House,12,5,Stone & Cinder Blocks,1,No,No,Yes,2,Yes,Yes,,,Yes,Free,3,790000
+686,Haddah,Commercial Building,11,9.9,Stone & Cinder Blocks,5,Yes,No,No,1,Yes,Yes,Commercial,2021,No,Free,2,656000
+687,Bayt Baws,Villa,11,7.7,Stone,2,Yes,No,No,1,Yes,Yes,Delux,2021,No,Free,3,657000
+688,Asbahi,Commercial Building,6,5.4,Stone & Cinder Blocks,6,Yes,No,Yes,1,Yes,Yes,Commercial,2019,No,Free,1,696000
+689,Artil,Commercial Building,11,9.9,Stone & Cinder Blocks,6,Yes,No,Yes,1,No,Yes,Commercial,2021,Yes,Free,3,655000
+690,Bayt Baws,Villa,8,5.6,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2021,No,Free,2,482000
+691,Bayt Baws,Villa,14,9.8,Stone,2,Yes,No,No,1,Yes,Yes,Commercial,2020,No,Free,5,822000
+692,Haddah,Villa,13,9.1,Stone,2,No,No,No,2,Yes,Yes,Commercial,2018,,Free,5,899000
+693,Bayt Baws,Traditional House,18,7,Brick ,2,No,No,Yes,1,Yes,Yes,,,Yes,Free,1,711000
+694,Asbahi,Commercial Building,8,7.2,Stone & Cinder Blocks,4,Yes,No,No,2,Yes,Yes,Commercial,2016,Yes,Free,2,572000
+695,Bayt Baws,Commercial Building,9,8.1,Stone & Cinder Blocks,4,Yes,No,Yes,1,Yes,Yes,Commercial,2017,Yes,Free,1,655000
+696,Haddah,Commercial Building,12,10.8,Stone & Cinder Blocks,5,Yes,No,Yes,1,Yes,Yes,Commercial,2016,Yes,Free,3,929000
+697,Haddah,Commercial Building,9,8.1,Stone ,6,Yes,No,No,1,Yes,Yes,Commercial,2018,No,Free,1,568000
+698,Artil,Commercial Building,5,4.5,Stone & Cinder Blocks,5,No,No,No,2,No,No,Commercial,2017,Yes,Free,1,287000
+699,Asbahi,Traditional House,4.5,2,Stone ,1,No,No,No,1,Yes,Yes,,,Yes,Free,1,210000
+700,Artil,Villa,9,6,Stone,2,Yes,No,Yes,2,No,Yes,Delux,2021,No,Free,2,348000
+701,Haddah,Villa,13,10,Stone,2,Yes,No,Yes,1,Yes,Yes,Commercial,2018,,Free,4,1230000
+702,Haddah,Commercial Building,12,10.1,Stone ,4,Yes,No,Yes,1,Yes,Yes,Commercial,2019,Yes,Free,3,956000
+703,Haddah,Commercial Building,11,9.2,Stone & Cinder Blocks,5,Yes,No,No,1,Yes,Yes,Commercial,2020,Yes,Free,4,654000
+704,Haddah,Villa,10,5,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2020,No,Free,3,613000
+705,Haddah,Villa,9,6,Stone,2,Yes,No,No,1,Yes,Yes,Commercial,2021,No,Free,2,607000
+706,Asbahi,Villa,10,8,Stone,2,No,No,No,1,Yes,Yes,Delux,2010,Yes,Free,2,699000
+707,Artil,Villa,12,8,Stone,2,No,No,No,2,No,Yes,Commercial,2021,No,Free,5,472000
+708,Asbahi,Traditional House,12,6,Brick ,1,No,No,No,1,Yes,Yes,,,Yes,Waqif,1,325000
+709,Artil,Villa,12,8,Stone,2,Yes,No,No,2,No,No,Delux,2020,No,Free,3,460000
+710,Bayt Baws,Villa,12,7.4,Stone,2,Yes,No,No,1,Yes,Yes,Delux,2019,No,Free,5,586000
+711,Bayt Baws,Villa,15,11.25,Stone & Cinder Blocks,2,Yes,No,No,2,Yes,Yes,Delux,2019,No,Free,4,852000
+712,Asbahi,Commercial Building,11,9.2,Stone & Cinder Blocks,5,Yes,No,Yes,2,Yes,Yes,Commercial,2016,Yes,Free,5,1287000
+713,Asbahi,Traditional House,13,6,Stone ,2,No,No,Yes,1,Yes,Yes,,,Yes,Free,1,922000
+714,Haddah,Villa,18,10,Stone,3,Yes,No,No,1,Yes,Yes,Commercial,2020,No,Free,5,963000
+715,Asbahi,Villa,11,8,Stone,2,Yes,No,Yes,1,Yes,Yes,Commercial,2013,Yes,Free,3,949000
+716,Bayt Baws,Villa,10,7.75,Stone,2,Yes,Yes,No,2,Yes,Yes,Commercial,2019,Yes,Free,2,755000
+717,Asbahi,Villa,11,8.45,Stone,2,No,Yes,No,1,Yes,Yes,Delux,2013,Yes,Free,4,855000
+718,Asbahi,Villa,12,9.15,Stone,2,No,No,No,1,Yes,Yes,Delux,2013,Yes,Free,3,784000
+719,Bayt Baws,Commercial Building,12,10.1,Stone,4,Yes,No,No,1,Yes,Yes,Commercial,2016,Yes,Free,2,636000
+720,Bayt Baws,Commercial Building,12,10.1,Stone & Cinder Blocks,4,Yes,No,No,1,Yes,Yes,Commercial,2017,Yes,Free,3,654000
+721,Haddah,Commercial Building,6,5.0,Stone,5,Yes,No,Yes,1,Yes,Yes,Commercial,2017,Yes,Free,4,463000
+722,Haddah,Villa,9,7.05,Stone,2,Yes,No,No,2,Yes,Yes,Commercial,2019,No,Free,3,670000
+723,Haddah,Villa,14,9,Stone,2,No,No,No,1,Yes,Yes,Commercial,2020,No,Free,3,893000
+724,Bayt Baws,Commercial Building,7,5.9,Stone & Cinder Blocks,4,Yes,No,No,2,Yes,Yes,Commercial,2021,No,Free,3,394000
+725,Bayt Baws,Villa,8,6.35,Stone,2,No,No,No,2,Yes,Yes,Commercial,2019,No,Free,2,496000
+726,Haddah,Villa,14,10.55,Stone,2,No,No,No,2,Yes,Yes,Delux,2020,No,Free,4,956000
+727,Haddah,Villa,8,6.35,Stone,2,No,No,Yes,2,Yes,Yes,Commercial,2019,No,Free,2,741000
+728,Haddah,Villa,12,9.15,Stone,2,Yes,No,No,1,Yes,Yes,Commercial,2019,No,Free,5,857000
+729,Haddah,Villa,11,8,Stone,2,Yes,No,No,2,Yes,Yes,Commercial,2020,No,Free,5,767000
+730,Haddah,Commercial Building,6,5.0,Stone & Cinder Blocks,4,Yes,No,No,2,Yes,Yes,Commercial,2018,Yes,Free,2,359000
+731,Bayt Baws,Villa,10,7.75,Stone,2,Yes,Yes,No,2,Yes,Yes,Commercial,2021,Yes,Free,3,741000
+732,Bayt Baws,Villa,13,7,Stone,2,No,No,No,2,Yes,Yes,Delux,2019,Yes,Free,4,682000
+733,Bayt Baws,Villa,7.2,4.5,Stone,2,No,No,No,2,Yes,Yes,Delux,2021,No,Free,2,365000
+734,Haddah,Commercial Building,7,5.9,Stone ,4,Yes,No,Yes,1,Yes,Yes,Commercial,2018,Yes,Free,3,586000
+735,Bayt Baws,Commercial Building,10,8.4,Stone & Cinder Blocks,4,Yes,No,No,2,Yes,Yes,Commercial,2017,Yes,Free,2,504000
+736,Artil,Commercial Building,8,6.7,Stone & Cinder Blocks,5,Yes,No,No,1,No,No,Commercial,2019,No,Free,1,434000
+737,Bayt Baws,Commercial Building,7,5.9,Stone & Cinder Blocks,5,Yes,No,Yes,2,Yes,Yes,Commercial,2020,No,Free,1,600000
+738,Artil,Commercial Building,6,5.0,Stone & Cinder Blocks,5,Yes,No,Yes,1,No,Yes,Commercial,2019,Yes,Free,1,331000
+739,Bayt Baws,Villa,10,7,Stone,2,No,No,No,2,Yes,Yes,Commercial,2021,No,Free,3,621000
+740,Bayt Baws,Commercial Building,12,10.1,Stone & Cinder Blocks,5,Yes,No,No,2,Yes,Yes,Commercial,2018,Yes,Free,2,715000
+741,Asbahi,Villa,17,10,Stone & Cinder Blocks,3,No,No,No,2,Yes,Yes,Delux,2010,Yes,Free,3,1234000
+742,Artil,Villa,9,5,Stone,2,Yes,Yes,No,2,No,No,Commercial,2020,No,Free,3,413000
+743,Bayt Baws,Commercial Building,4.5,3.8,Stone & Cinder Blocks,4,Yes,No,No,1,Yes,Yes,Delux,2021,No,Free,0,540000
+744,Bayt Baws,Commercial Building,8,6.7,Stone & Cinder Blocks,6,Yes,No,No,1,Yes,Yes,Commercial,2017,Yes,Free,1,463000
+745,Artil,Villa,8,4.5,Stone,2,Yes,No,Yes,1,No,Yes,Commercial,2020,Yes,Free,3,301000
+746,Asbahi,Villa,13,7.8,Stone,2,Yes,No,No,1,Yes,Yes,Delux,2015,Yes,Free,3,924000
+747,Haddah,Villa,8,6.5,Stone,2,No,No,Yes,2,Yes,Yes,Delux,2021,Yes,Free,3,768000
+748,Asbahi,Commercial Building,7,5.9,Stone & Cinder Blocks,4,Yes,No,Yes,2,Yes,Yes,Commercial,2020,Yes,Free,2,1028000
+749,Bayt Baws,Villa,9,7,Stone,2,Yes,No,No,2,Yes,Yes,Commercial,2019,Yes,Free,2,577000
+750,Artil,Commercial Building,6,5.0,Stone & Cinder Blocks,4,Yes,No,No,1,No,Yes,Commercial,2019,Yes,Waqif,1,237000
+751,Artil,Villa,8,5.3,Stone,2,Yes,No,No,1,Yes,Yes,Commercial,2021,Yes,Free,3,322000
+752,Bayt Baws,Villa,7.5,4.5,Stone,2,Yes,No,No,1,Yes,Yes,Delux,2021,No,Free,1,377000
+753,Haddah,Villa,13,7,Stone,2,Yes,No,No,2,Yes,Yes,Commercial,2021,No,Free,3,782000
+754,Artil,Villa,15,10,Stone,2,No,No,Yes,1,No,Yes,Commercial,2020,No,Free,3,553000
+755,Asbahi,Commercial Building,7,5.9,Stone & Cinder Blocks,6,Yes,No,No,2,Yes,Yes,Commercial,2018,Yes,Free,2,574000
+756,Artil,Villa,15,8.7,Stone,2,No,No,No,1,No,No,Delux,2020,No,Free,5,526000
+757,Haddah,Commercial Building,6,5.0,Stone & Cinder Blocks,4,Yes,No,Yes,1,Yes,Yes,Commercial,2017,Yes,Free,3,452000
+758,Bayt Baws,Commercial Building,9,7.6,Stone & Cinder Blocks,6,Yes,No,Yes,1,Yes,Yes,Commercial,2019,Yes,Free,2,689000
+759,Bayt Baws,Villa,7,5,Stone,3,No,No,No,2,Yes,Yes,Delux,2019,No,Free,3,378000
+760,Haddah,Villa,8,5,Stone,2,No,No,No,1,Yes,Yes,Delux,2019,No,Free,3,500000
+761,Bayt Baws,Commercial Building,11,9.2,Stone & Cinder Blocks,6,Yes,No,Yes,1,Yes,Yes,Delux,2020,Yes,Free,1,866000
+762,Haddah,Commercial Building,9,7.6,Stone & Cinder Blocks,6,Yes,No,Yes,1,Yes,Yes,Commercial,2021,No,Free,3,737000
+763,Asbahi,Villa,13,7.6,Stone,2,No,No,Yes,1,Yes,Yes,Commercial,2015,Yes,Free,3,1056000
+764,Artil,Villa,10,7.5,Stone,2,Yes,No,No,1,No,Yes,Delux,2021,No,Free,3,428000
+765,Haddah,Villa,15,9,Stone,2,No,No,Yes,2,Yes,Yes,Commercial,2021,No,Free,3,1241000
+766,Artil,Villa,8,6.5,Stone & Cinder Blocks,2,Yes,No,No,2,No,Yes,Commercial,2019,No,Free,2,360000
+767,Bayt Baws,Empty Plot,4.5,,,,,,Yes,2,Yes,Yes,,,,Free,,259000
+768,Artil,Commercial Building,8,6.7,Stone & Cinder Blocks,4,Yes,No,Yes,2,No,Yes,Commercial,2020,No,Free,1,458000
+769,Haddah,Empty Plot,7.5,,,,,,Yes,2,Yes,Yes,,,,Waqif,,425000
+770,Haddah,Empty Plot,8,,,,,,Yes,1,Yes,Yes,,,,Free,,568000
+771,Asbahi,Commercial Building,12,10.1,Stone & Cinder Blocks,5,Yes,No,Yes,1,Yes,Yes,Commercial,2021,No,Free,0,1475000
+772,Asbahi,Empty Plot,16,,,,,,Yes,2,Yes,Yes,,,,Waqif,,753000
+773,Artil,Villa,7,5.3,Stone,2,No,No,No,2,No,Yes,Delux,2020,No,Free,2,302000
+774,Artil,Commercial Building,8,6.7,Stone & Cinder Blocks,5,Yes,No,No,1,No,Yes,Commercial,2019,Yes,Free,0,468000
+775,Artil,Villa,8,5.8,Stone,2,Yes,No,No,2,No,No,Delux,2020,No,Free,2,340000
+776,Asbahi,Villa,10,6,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2010,Yes,Free,2,811000
+777,Bayt Baws,Villa,7,4.9,Stone,2,No,No,No,1,Yes,Yes,Commercial,2019,No,Free,3,427000
+778,Asbahi,Empty Plot,12.5,,,,,,Yes,2,Yes,Yes,,,,Free,,648000
+779,Bayt Baws,Commercial Building,8,6.7,Stone & Cinder Blocks,4,Yes,No,No,2,Yes,Yes,Commercial,2021,Yes,Free,1,482000
+780,Artil,Commercial Building,11,9.2,Stone & Cinder Blocks,5,Yes,No,Yes,2,No,Yes,Delux,2021,No,Free,2,696000
+781,Bayt Baws,Villa,9,6.3,Stone,2,No,No,Yes,1,Yes,Yes,Commercial,2021,No,Free,3,211000
+782,Asbahi,Empty Plot,5.3,,,,,,Yes,1,Yes,Yes,,,,Free,,319000
+783,Bayt Baws,Empty Plot,5,,,,,,No,2,Yes,Yes,,,,Free,,195000
+784,Haddah,Commercial Building,6,5.0,Stone ,5,Yes,No,No,1,Yes,Yes,Commercial,2016,Yes,Waqif,3,329000
+785,Bayt Baws,Empty Plot,8.4,,,,,,No,1,Yes,Yes,,,,Free,,319000
+786,Asbahi,Commercial Building,8.4,7.1,Stone ,4,Yes,No,Yes,2,Yes,Yes,Delux,2017,Yes,Free,5,1180000
+787,Haddah,Empty Plot,7.2,,,,,,Yes,1,Yes,Yes,,,,Waqif,,486000
+788,Artil,Empty Plot,22,,,,,,No,3,No,Yes,,,,Free,,301000
+789,Artil,Empty Plot,18,,,,,,Yes,2,No,Yes,,,,Free,,245000
+790,Asbahi,Empty Plot,2.5,,,,,,No,2,Yes,Yes,,,,Free,,108000
+791,Haddah,Villa,13,9,Stone,3,Yes,No,No,1,Yes,Yes,Commercial,2018,,Free,5,790000
+792,Bayt Baws,Empty Plot,7,,,,,,Yes,2,Yes,Yes,,,,Free,,370000
+793,Artil,Commercial Building,9,7.6,Stone & Cinder Blocks,4,Yes,No,Yes,2,No,Yes,Commercial,2016,No,Free,2,563000
+794,Asbahi,Empty Plot,5,,,,,,No,2,Yes,Yes,,,,Free,,213000
+795,Bayt Baws,Empty Plot,6,,,,,,No,1,Yes,Yes,,,,Waqif,,158000
+796,Asbahi,Empty Plot,3.5,,,,,,Yes,2,Yes,Yes,,,,Free,,183000
+797,Bayt Baws,Commercial Building,7,5.9,Stone & Cinder Blocks,5,Yes,No,No,2,Yes,Yes,Commercial,2021,Yes,Free,4,389000
+798,Bayt Baws,Commercial Building,11,9.2,Stone & Cinder Blocks,4,Yes,No,No,2,Yes,Yes,Commercial,2017,Yes,Free,3,623000
+799,Haddah,Villa,13,9.1,Stone,2,No,No,No,1,Yes,Yes,Delux,2014,Yes,Free,3,774000
+800,Haddah,Villa,8,5.6,Stone,2,Yes,No,No,2,Yes,Yes,Commercial,2021,No,Free,3,555000
+801,Asbahi,Commercial Building,10,8.4,Stone & Cinder Blocks,5,Yes,No,No,2,Yes,Yes,Commercial,2017,Yes,Free,4,695000
+802,Bayt Baws,Commercial Building,6,5.0,Stone & Cinder Blocks,4,Yes,No,No,2,Yes,Yes,Commercial,2018,No,Free,2,344000
+803,Asbahi,Villa,13,9.1,Stone,2,Yes,No,No,1,Yes,Yes,Commercial,2021,No,Free,3,732000
+804,Haddah,Villa,13.8,9.66,Stone,2,Yes,Yes,Yes,1,Yes,Yes,Delux,2017,Yes,Free,4,1459000
+805,Artil,Commercial Building,11,9.2,Stone & Cinder Blocks,5,Yes,No,No,1,No,No,Commercial,2016,Yes,Free,3,595000
+806,Haddah,Commercial Building,11,9.2,Stone & Cinder Blocks,4,Yes,No,Yes,1,Yes,Yes,Commercial,2019,No,Free,3,842000
+807,Bayt Baws,Villa,12,8.4,Stone,2,Yes,No,No,1,Yes,Yes,Delux,2019,No,Free,5,704000
+808,Artil,Commercial Building,10,8.4,Stone & Cinder Blocks,4,Yes,No,Yes,2,No,Yes,Commercial,2020,No,Free,2,633000
+809,Bayt Baws,Villa,13,9.1,Stone,2,Yes,No,No,2,Yes,Yes,Commercial,2021,No,Free,5,757000
+810,Bayt Baws,Commercial Building,9,7.6,Stone & Cinder Blocks,6,Yes,No,Yes,2,Yes,Yes,Commercial,2020,No,Free,4,729000
+811,Bayt Baws,Villa,15,10.5,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2019,No,Free,4,830000
+812,Haddah,Villa,8,5.6,Stone,2,Yes,No,Yes,2,Yes,Yes,Delux,2019,No,Free,2,878000
+813,Artil,Villa,14,9.8,Stone & Cinder Blocks,2,Yes,No,Yes,1,No,Yes,Commercial,2020,No,Free,3,539000
+814,Asbahi,Villa,10,7,Stone,2,Yes,No,No,1,Yes,Yes,Commercial,2020,No,Free,3,611000
+815,Artil,Commercial Building,11,9.2,Stone & Cinder Blocks,5,Yes,Yes,Yes,2,No,Yes,Commercial,2021,Yes,Free,2,680000
+816,Bayt Baws,Villa,15,10.5,Stone,2,Yes,Yes,No,1,Yes,Yes,Commercial,2019,Yes,Waqif,5,905000
+817,Haddah,Villa,13,9.1,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2020,No,Free,2,779000
+818,Haddah,Villa,9,7.5,Stone & Cinder Blocks,3,No,No,No,1,Yes,Yes,Commercial,2021,No,Free,2,620000
+819,Haddah,Commercial Building,12,10.1,Stone & Cinder Blocks,6,Yes,No,Yes,2,Yes,Yes,Commercial,2019,No,Waqif,3,635000
+820,Asbahi,Villa,8,6,Stone,2,Yes,No,No,2,Yes,Yes,Delux,2021,No,Free,2,603000
+821,Artil,Commercial Building,6,5.0,Stone & Cinder Blocks,5,Yes,No,No,2,No,No,Commercial,2018,Yes,Free,4,371000
+822,Bayt Baws,Commercial Building,10,8.4,Stone & Cinder Blocks,6,Yes,No,Yes,1,Yes,Yes,Commercial,2021,No,Free,1,797000
+823,Haddah,Commercial Building,12,10.1,Stone ,4,Yes,No,Yes,1,Yes,Yes,Delux,2019,No,Free,4,1161000
+824,Artil,Villa,15,10,Stone & Cinder Blocks,3,Yes,No,Yes,2,No,Yes,Delux,2020,No,Waqif,4,504000
+825,Haddah,Traditional House,13.5,7,Stone ,1,No,No,Yes,1,Yes,Yes,,,Yes,Free,1,1148000
+826,Artil,Traditional House,7,4,Brick ,3,No,No,Yes,1,No,Yes,,,Yes,Free,0,92000
+827,Bayt Baws,Commercial Building,5.8,5,Stone & Cinder Blocks,4,No,No,Yes,1,Yes,Yes,Commercial,2018,Yes,Free,0,466000
+828,Haddah,Villa,4.5,3.5,Stone,2,Yes,Yes,No,1,Yes,Yes,Delux,2021,Yes,Free,2,402000
+829,Bayt Baws,Traditional House,10,4,Brick ,2,No,No,Yes,1,Yes,Yes,,,Yes,Free,0,278000
+830,Asbahi,Villa,6,4.5,Stone,2,Yes,No,No,1,Yes,Yes,Commercial,2020,No,Free,1,358000
