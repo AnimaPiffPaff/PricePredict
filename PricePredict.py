@@ -36,6 +36,11 @@ if predict:
         st.write('## Do Not Exist! Please Enter Useful Data.')
     else:
         if int(pred/1000000) == 0:
-            st.write('## The Price is:  ', str(int(pred/1000)), ',     ', str(int(pred - (pred/1000))))
+            if len(str(int(pred)%1000)) == 1:
+                st.write('## The Price is:  ', str(int(pred/1000)), ',   00', str(int(pred)%1000))
+            elif len(str(int(pred)%1000)) == 2:
+                st.write('## The Price is:  ', str(int(pred/1000)), ',    0', str(int(pred)%1000))
+            else:
+                st.write('## The Price is:  ', str(int(pred/1000)), ',     ', str(int(pred)%1000))
         else:
             st.write('## The Price is:  ', str(int(pred/1000000)), ',     ', str(int(pred/1000)), ',     ', str(int(pred)%1000))
