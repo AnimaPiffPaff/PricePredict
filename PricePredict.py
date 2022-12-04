@@ -37,7 +37,5 @@ if predict:
     else:
         if int(pred/1000000) == 0:
             st.write('## The Price is:  ', str(int(pred/1000)), ',     ', str(int(pred)%1000))
-        elif int(pred/1000) == 0:
-            st.write('## The Price is:  ', str(int(pred)%1000))
         else:
             st.write('## The Price is:  ', str(int(pred/1000000)), ',     ', str(int(pred/1000)), ',     ', str(int(pred)%1000))
