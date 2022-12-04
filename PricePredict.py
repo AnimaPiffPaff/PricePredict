@@ -35,15 +35,19 @@ if predict:
     if pred < 0:
         st.write('## Do Not Exist! Please Enter Useful Data.')
     else:
-        if int(pred/1000000) == 0:
-            if len(str(int(pred)%1000)) == 1:
-                st.write('## The Price is:  ', str(int(pred/1000)), ',   00{}'.format(str(int(pred%1000))))
-            elif len(str(int(pred)%1000)) == 2:
-                st.write('## The Price is:  ', str(int(pred/1000)), ',    0{}'.format(str(int(pred%1000))))
-            else:
-                st.write('## The Price is:  ', str(int(pred/1000)), ',     ', str(int(pred)%1000))
-        else:
-            st.write('## The Price is:  ', str(int(pred/1000000)), ',     ', str(int((pred%1000000)/1000)), ',     ', str(int(pred%1000)))
+        x = str(int(pred))
+        l = [ x[i:i+3] for i in range(0, len(x), 3) ]
+        for num in l:
+            st.write('## The Price is:   {}  '.format(num))
+   #     if int(pred/1000000) == 0:
+    #        if len(str(int(pred)%1000)) == 1:
+     #           st.write('## The Price is:  ', str(int(pred/1000)), ',   00{}'.format(str(int(pred%1000))))
+      #      elif len(str(int(pred)%1000)) == 2:
+      #          st.write('## The Price is:  ', str(int(pred/1000)), ',    0{}'.format(str(int(pred%1000))))
+      #      else:
+      #          st.write('## The Price is:  ', str(int(pred/1000)), ',     ', str(int(pred)%1000))
+      #  else:
+      #      st.write('## The Price is:  ', str(int(pred/1000000)), ',     ', str(int((pred%1000000)/1000)), ',     ', str(int(pred%1000)))
             
 st.write('\n')            
 st.write('## Thank you for your visit!')
