@@ -36,11 +36,11 @@ if predict:
         st.write('## Do Not Exist! Please Enter Useful Data.')
     else:
         x = str(int(pred))
-        l = [ x[i:i+3] for i in range(0, len(x), 3) ]
+        l = [ x[len(x)-i-3:len(x)-i] for i in range(0, len(x), 3) ]
         if len(l) == 2:
-            st.write('## The Price is:  {},  {}'.format(l[0], l[1]))
+            st.write('## The Price is:  {},  {}'.format(l[1], l[0]))
         else:
-            st.write('## The Price is:  ', str(int(pred/1000000)), ',     ', str(int((pred%1000000)/1000)), ',     ', str(int(pred%1000)))
+            st.write('## The Price is:  {},  {},  {}'.format(l[2], l[1], l[0]))
             
 st.write('\n')            
 st.write('## Thank you for your visit!')
