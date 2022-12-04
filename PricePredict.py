@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 from PIL import Image
 
-st.write('# House Pricing')
+st.markdown("<h1 style='text-align: center; color: red;'>House Pricing</h1>", unsafe_allow_html=True)
 image = Image.open('house.jpg')
 st.image(image, caption='House Pricing Prediction')
 
