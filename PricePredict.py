@@ -44,3 +44,6 @@ if predict:
                 st.write('## The Price is:  ', str(int(pred/1000)), ',     ', str(int(pred)%1000))
         else:
             st.write('## The Price is:  ', str(int(pred/1000000)), ',     ', str(int(pred/1000)), ',     ', str(int(pred)%1000))
+            
+st.write('\n')            
+st.write('## Thank you for your visit!')
