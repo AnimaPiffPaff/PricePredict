@@ -40,19 +40,7 @@ if predict:
         if len(l) == 2:
             st.write('## The Price is:  {},  {}'.format(l[0], l[1]))
         else:
-            if len(x) == 8:
-                st.write('## The Price is:  {},  {},  {}'.format(x[0], x[1], l[1], l[2]))
-            else:
-                st.write('## The Price is:  {},  {},  {}'.format(x[0], l[1], l[2]))
-   #     if int(pred/1000000) == 0:
-    #        if len(str(int(pred)%1000)) == 1:
-     #           st.write('## The Price is:  ', str(int(pred/1000)), ',   00{}'.format(str(int(pred%1000))))
-      #      elif len(str(int(pred)%1000)) == 2:
-      #          st.write('## The Price is:  ', str(int(pred/1000)), ',    0{}'.format(str(int(pred%1000))))
-      #      else:
-      #          st.write('## The Price is:  ', str(int(pred/1000)), ',     ', str(int(pred)%1000))
-      #  else:
-      #      st.write('## The Price is:  ', str(int(pred/1000000)), ',     ', str(int((pred%1000000)/1000)), ',     ', str(int(pred%1000)))
+            st.write('## The Price is:  ', str(int(pred/1000000)), ',     ', str(int((pred%1000000)/1000)), ',     ', str(int(pred%1000)))
             
 st.write('\n')            
 st.write('## Thank you for your visit!')
