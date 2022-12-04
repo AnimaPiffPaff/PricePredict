@@ -2,6 +2,8 @@ import streamlit as st
 import pickle
 import numpy as np
 
+st.write('# House Pricing')
+
 #Survey Section
 sanatation = st.selectbox('Sanatation Network', ['No', 'Yes'])
 area = st.number_input('Building Area', min_value=0)
