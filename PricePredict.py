@@ -1,8 +1,11 @@
 import streamlit as st
 import pickle
 import numpy as np
+from PIL import Image
 
 st.write('# House Pricing')
+image = Image.open('house.jpg')
+st.image(image, caption='House Pricing Prediction')
 
 #Survey Section
 sanatation = st.selectbox('Sanatation Network', ['No', 'Yes'])
