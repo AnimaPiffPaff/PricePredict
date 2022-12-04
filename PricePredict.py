@@ -34,7 +34,7 @@ model = pickle.load(open('LinRegModel.sav', 'rb'))
 predict = st.button('Predict Price!')
 
 if predict:
-    pred = model.predict(np.array([plot, area, garage, loc_Artil[location], loc_Asbahi[location], loc_Bayt[location], loc_Haddah[location], inverseBoolean[mainstreet], boolean[mainstreet], inverseBoolean[sanatation], boolean[sanatation], grade_Com[grade], grade_Del[grade]]).reshape(1,-1))
+    pred = model.predict(np.array([plot, area, garage, loc_Artil[location], loc_Asbahi[location], loc_Bayt[location], loc_Haddah[location], inverseBoolean[mainstreet], boolean[mainstreet], inverseBoolean[sanitation], boolean[sanitation], grade_Com[grade], grade_Del[grade]]).reshape(1,-1))
     if pred < 0:
         st.write('## Do Not Exist! Please Enter Useful Data.')
     else:
