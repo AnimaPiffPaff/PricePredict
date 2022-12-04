@@ -8,13 +8,14 @@ image = Image.open('house.jpg')
 st.image(image, caption='House Pricing Prediction')
 
 #Survey Section
-sanatation = st.selectbox('Sanatation Network', ['No', 'Yes'])
-area = st.number_input('Building Area', min_value=0)
-mainstreet = st.selectbox('Main Street', ['No', 'Yes'])
-plot = st.number_input('Plot Size', min_value=0)
-year = st.number_input('Building Year', min_value=2015, max_value=2022)
-garage = st.number_input('Garage Capacity', min_value=0)
 location = st.selectbox('Location', ['Artil', 'Asbahi', 'Bayt Baws', 'Haddah'])
+mainstreet = st.selectbox('Main Street', ['No', 'Yes'])
+area = st.number_input('Building Area', min_value=0)
+plot = st.number_input('Plot Size', min_value=0)
+garage = st.number_input('Garage Capacity', min_value=0)
+sanitation = st.selectbox('Sanitation Network', ['No', 'Yes'])
+grade = st.selectbox('Finishing Grade', ['Commercial', 'Delux'])
+
 
 #Mapping characters to numbers
 boolean = {'Yes': 1, 'No': 0}
@@ -23,15 +24,17 @@ loc_Artil = {'Artil': 1, 'Asbahi': 0, 'Bayt Baws': 0, 'Haddah': 0}
 loc_Asbahi = {'Artil': 0, 'Asbahi': 1, 'Bayt Baws': 0, 'Haddah': 0}
 loc_Bayt = {'Artil': 0, 'Asbahi': 0, 'Bayt Baws': 1, 'Haddah': 0}
 loc_Haddah = {'Artil': 0, 'Asbahi': 0, 'Bayt Baws': 0, 'Haddah': 1}
+grade_Com = {'Commercial': 1, 'Delux': 0}
+grade_Del = {'Commercial': 0, 'Delux': 1}
 
 #Loading Pre-Trained Model (Linear Regression)
-model = pickle.load(open('RegressionModel.sav', 'rb'))
+model = pickle.load(open('LinRegModel.sav', 'rb'))
 
 #Predict Button
 predict = st.button('Predict Price!')
 
 if predict:
-    pred = model.predict(np.array([year, plot, area, garage, loc_Artil[location], loc_Asbahi[location], loc_Bayt[location], loc_Haddah[location], inverseBoolean[mainstreet], boolean[mainstreet], inverseBoolean[sanatation], boolean[sanatation]]).reshape(1,-1))
+    pred = model.predict(np.array([year, plot, area, garage, loc_Artil[location], loc_Asbahi[location], loc_Bayt[location], loc_Haddah[location], inverseBoolean[mainstreet], boolean[mainstreet], inverseBoolean[sanatation], boolean[sanatation], grade_Com[grade], grade_Del[grade]]).reshape(1,-1))
     if pred < 0:
         st.write('## Do Not Exist! Please Enter Useful Data.')
     else:
